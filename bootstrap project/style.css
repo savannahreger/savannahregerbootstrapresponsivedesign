@@ -1,0 +1,219 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+.defMouse {
+    cursor: default;
+}
+
+.bgCustom {
+    background-color: #9e8dc8;
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+    background-color: purple;
+    border-radius: 50rem;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+body {
+    background-color: #f1e5ac;
+    font-family: "Libre Bodoni", serif;
+}
+
+hr {
+    width: 80%;
+    align-content: center;
+    margin: auto;
+    background-color: black;
+    border: 1px solid black;
+    opacity: 1;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.navbar-brand {
+    position: absolute;
+    right: 0;
+}
+
+h1 {
+    text-align: center;
+    font-size: 130px;
+    font-family: "Libre Bodoni", serif;
+    margin: 30px 0px;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+}
+
+.carousel-item img {
+    border: none;
+    border-radius: 20px;
+    max-width: 95%;
+    margin: auto;
+    display: block;
+    box-sizing: border-box;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.imgcontain {
+    background-color: #9e8dc8;
+    max-width: 60%;
+    margin: 50px auto 20px;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+#imageCarousel {
+    margin: 50px 0px;
+}
+
+#words {
+    padding: 4em;
+    margin: 0px 5em;
+    text-align: left;
+}
+
+#words h3,
+p {
+    text-align: center;
+}
+
+#words h3 {
+    padding-top: 100px;
+}
+
+.btn-outline-primary {
+    color: white;
+    outline-color: white;
+}
+.btn-outline-primary:hover {
+    background-color: white;
+    color: purple;
+}
+
+.btn {
+    background-color: purple;
+    outline-color: white;
+}
+
+#aboutUsTitle {
+    font-size: 100px;
+}
+
+.printer-image {
+    max-width: 35%;
+}
+
+.oldjmu-image {
+    height: 25em;
+    width: 40em;
+}
+
+#top {
+    display: flex;
+}
+
+#top,
+#middle,
+#bottom {
+    margin: 50px 0;
+}
+
+#top,
+#bottom {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#middle {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+#top img,
+#bottom img {
+    max-width: 50%;
+    margin-right: 50px;
+}
+
+#middle img {
+    max-width: 40%;
+    margin-left: 50px;
+}
+
+p {
+    flex: 1;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.title {
+    font-size: 170%;
+}
+
+.edition2021 h3,
+.edition2021 p {
+    text-align: left;
+    color: white;
+}
+
+.edition2021 img {
+    float: right;
+    max-width: 20%;
+    height: 10%;
+}
+
+.editions {
+    max-width: 80%;
+    margin: 30px auto;
+}
+
+.accordion-item,
+.accordion-button {
+    background-color: #9e8dc8;
+    color: white;
+}
+
+.accordion-body {
+    margin-bottom: 310px;
+}
+
+.signupcontainer {
+    background-color: #9e8dc8;
+    width: 50%;
+    max-width: 600px;
+    margin: 50px auto 20px;
+    border-radius: 15px;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.signupinput {
+    display: block;
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+.picturewords {
+    max-width: 80%;
+    margin: auto;
+}
+
+#madban {
+    margin: auto;
+    max-width: 40%;
+    display: block;
+    margin-top: 50px;
+}
